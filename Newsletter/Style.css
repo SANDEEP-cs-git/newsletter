@@ -1,0 +1,54 @@
+html,
+body {
+  background: url(Background.png) no-repeat center center fixed; 
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+h1 {
+  font-size: 3rem; 
+  color: #f8eeef;
+  font-family: 'Gideon Roman', cursive;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+  cursor: pointer;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+footer{
+  color: aliceblue;
+}
+footer:hover{
+  /* <img src="intro.jpg" alt="SANDEEP RAI"> ; */
+  cursor: pointer;
+}
